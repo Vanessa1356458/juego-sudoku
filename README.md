@@ -61,6 +61,6 @@ Juego de Sudoku desarrollado con **C#** y **Windows Forms**.
 
 ## 👩‍💻 Autora
 
-Vanessa Rodriguez
-Estructura de Datos
+Vanessa Rodriguez -
+Estructura de Datos -
 Ingenieria en Sistemas
