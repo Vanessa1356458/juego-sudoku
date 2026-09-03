@@ -40,7 +40,7 @@ Juego de Sudoku desarrollado con **C#** y **Windows Forms**.
 
 1. Clonar el repositorio
    ```
-   git clone https://github.com/Vanessa1356458/juego-sudoku.git
+   git clone https://github.com/cvanessa-dev/juego-sudoku.git
    cd juego-sudoku
    ```
 2. Abrir el archivo `.sln` con Visual Studio
@@ -61,4 +61,6 @@ Juego de Sudoku desarrollado con **C#** y **Windows Forms**.
 
 ## 👩‍💻 Autora
 
-Vanessa Rodriguez - Ingenieria en Sistemas
+Vanessa Rodriguez
+Estructura de Datos
+Ingenieria en Sistemas
